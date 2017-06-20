@@ -1,3 +1,4 @@
 module com.l3t.TestQmlPlugin
 plugin TestQmlPlugin
+typeinfo plugins.qmltypes
 MyRectangle 1.0 MyRectangle.qml
